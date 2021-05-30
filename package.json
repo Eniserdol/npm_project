@@ -1,0 +1,19 @@
+{
+  "name": "npm_project",
+  "version": "1.0.0",
+  "description": "An example project for a library for npm ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eniserdol/npm_project.git"
+  },
+  "author": "Enis Erdöl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Eniserdol/npm_project/issues"
+  },
+  "homepage": "https://github.com/Eniserdol/npm_project#readme"
+}
